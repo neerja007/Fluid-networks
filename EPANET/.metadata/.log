@@ -1,0 +1,24 @@
+!SESSION 2013-06-29 12:53:06.796 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_IN
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-29 12:53:47.541
+!MESSAGE System property http.proxyHost is not set but should be 10.200.1.3.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-29 12:53:47.545
+!MESSAGE System property http.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-29 12:53:47.545
+!MESSAGE System property https.proxyHost is not set but should be 10.200.1.3.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-29 12:53:47.545
+!MESSAGE System property https.proxyPort is not set but should be 3128.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-29 12:53:47.546
+!MESSAGE System property https.proxyHost is not set but should be 10.200.1.3.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-29 12:53:47.546
+!MESSAGE System property https.proxyPort is not set but should be 3128.
